@@ -1,4 +1,4 @@
-# ted-web
+# tde-web
 
 ## Project setup
 ```
